@@ -1,0 +1,27 @@
+.ph1{
+    border:2px solid black;
+    border-collapse: collapse;
+    
+    }
+    th,td{
+        border:2px solid black;
+        text-align: center;
+        height: 70px;
+        width:200px;
+    }
+    .ph2{
+        background:linear-gradient(to right,pink,aliceblue );
+    } 
+     th{
+        background-color:green;
+        color: aliceblue;
+    }
+    td{
+        background-color:grey;
+        color: aliceblue;
+    }
+    .ph3{
+        background-color:chocolate;
+        color: aliceblue;
+    }
+    

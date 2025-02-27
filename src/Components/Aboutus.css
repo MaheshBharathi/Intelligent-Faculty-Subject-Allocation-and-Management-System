@@ -1,0 +1,19 @@
+/* .con2{
+    background:linear-gradient(to right,purple,pink);
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    font-family: sans-serif;
+} */
+.con4{
+    background:linear-gradient(to right,lightcoral,blueviolet);
+    height: 100%;
+    margin-top: 20px;
+    font-size: 26px;
+    padding: 30px;
+    color: black;
+}
+.a1{
+    text-decoration: underline;
+    
+}

@@ -1,0 +1,17 @@
+.nav{
+    /* background-color: blueviolet;
+    height: 23px; */
+    background: url('C:\Users\22CS048\IFSAMS\frontend\p3.png');
+    /* background: url('C:\Users\22CS048\mernprojts\p2.png'); */
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20%;
+    /* background-attachment: fixed; */
+  }
+  .nav1{
+    text-align: center;
+    color:white;
+    text-size-adjust: 23px;
+   
+  }

@@ -1,0 +1,92 @@
+.hom1{
+    background-color: maroon;
+    color: azure;
+    text-align: center;
+    height: 90px;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.hom3{
+    background-color: darkcyan;
+    color: white;
+    height: 600px;
+    margin-bottom: 50px;
+    width:250px;
+    border-radius: 10px;
+}
+.hom2{
+    background: url('C:\Users\22CS048\IFSAMS\frontend\immg7.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ho1{
+    text-decoration: underline;
+    color: white;
+}
+.ho2{
+    height: 150px;
+}
+.hom4{
+    background-color: pink;
+    width: 123px;
+    text-align: center;
+    border-radius: 34px;
+    margin-left: 23px;
+}
+.hom5{
+    background-color: aqua;
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+}
+.u{
+    display: flex;
+    background-color: aquamarine;
+    column-gap: 30px;
+    height: 23px;
+    border-radius: 10px;
+}
+.hom6{
+    background-color: antiquewhite;
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+
+}
+.hom7{
+    background-color: rgb(247, 52, 52);
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+    color: white;
+
+}
+.hom8{
+    background-color: rgb(223, 139, 30);
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+
+}
+.hom9{
+    background-color: rgb(211, 168, 112);
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+
+}
+.hom10{
+    background-color: rgb(43, 150, 221);
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+
+}
+.hom11{
+    background-color: rgb(72, 197, 187);
+    border-radius: 34px;
+    text-align: center;
+    width: 123px;
+
+}
