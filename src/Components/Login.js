@@ -1,25 +1,4 @@
-// // // import React,{useState} from 'react'
-// // // import {useAuth} from './Auth'
-// // // import{useNavigate} from 'react-router-dom'
 
-// // // function Login() {
-// // //     const[username,setUsername]=useState('')
-// // //     const navigate=useNavigate()
-// // //     const auth=useAuth()
-// // //     const handleLogin=()=>{
-// // //         auth.login(username)
-// // //         navigate('/')
-// // //     }
-// // //   return (
-// // //     <div>
-// // //         <label>Username</label>
-// // //         <input type='text'value={username} onChange={(e)=>setUsername(e.target.value)}/><br></br>
-// // //         <button onClick={handleLogin}>Login</button>
-// // //     </div>
-// // //   )
-// // // }
-// // // export default Login
-//first signup
 import React,{useState} from 'react'
  import { useNavigate } from 'react-router-dom'
  import { useAuth } from './Auth'
