@@ -1,10 +1,10 @@
-import React from 'react'
+//import React from 'react'
  
-function Mobile() {
-  return (
-    <div>
+//function Mobile() {
+  //return (
+    //<div>
 
-    </div>
-  )
-}
-export default Mobile
+    /</div>
+  //)
+//}
+//export default Mobile
